@@ -9,7 +9,7 @@ public class Question_10 {
 		for (int row=1; row<=7; row++) {
 			int lastNumber=row;
 		       for(int i=1; i<=lastNumber; i++) {
-			    System.out.print(lastNumber);
+			    System.out.print(lastNumber + " ");
 				}
 		       System.out.println();
 		}
